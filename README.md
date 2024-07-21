@@ -1,2 +1,2 @@
 This is an NTI ASS 
-Its an project to learn MEAN Stack
+It's a project to learn MEAN Stack
